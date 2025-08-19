@@ -1,4 +1,4 @@
-## C++ Scripts
+## C++ Scripts(basic)
 - **PrimeNumber_finder.cpp** → Basic prime number finder
 - **Pyramid_problem.cpp** → Solution for the basic 'print a pyramid' problem
 - **gcd_lcm.cpp** → Greatest common divisor and least common multiple finder, between selected two numbers
